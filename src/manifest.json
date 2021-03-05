@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "net.joek.joplin-markmap",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "markmap",
+	"description": "Renders mindmaps from markdown using the markmap library",
+	"author": "Joe Kilner",
+	"homepage_url": "https://github.com/joekilner/joplin-markmap",
+	"repository_url": "https://github.com/joekilner/joplin-markmap",
+	"keywords": []
+}
