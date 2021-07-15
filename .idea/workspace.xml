@@ -14,11 +14,18 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75c28c42-bde8-41db-b7c1-b60ad1d18121" name="Default Changelist" comment="" />
+    <list default="true" id="75c28c42-bde8-41db-b7c1-b60ad1d18121" name="Default Changelist" comment="Initial plugin">
+      <change afterPath="$PROJECT_DIR$/src/d3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/markmap-view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +37,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="7ew24861" />
+  </component>
   <component name="ProjectId" id="1pMDXGq2bzGIkouAkHa4FLQuO8M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,11 +48,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Dev\joplin-markmap\node_modules\typescript\lib" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,8 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1614984103274</updated>
       <workItem from="1614984104344" duration="337000" />
-      <workItem from="1614984473828" duration="65000" />
+      <workItem from="1614984473828" duration="4516000" />
+      <workItem from="1615556062509" duration="7000" />
+      <workItem from="1622738643019" duration="11166000" />
+      <workItem from="1623315482096" duration="53000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial plugin">
+      <created>1614984586352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614984586352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,15 +100,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1626" y="457" key="FileChooserDialogImpl" timestamp="1614984517604">
-      <screen x="0" y="0" width="3440" height="1410" />
-    </state>
-    <state x="1626" y="457" key="FileChooserDialogImpl/0.0.3440.1410@0.0.3440.1410" timestamp="1614984517604" />
-    <state x="1347" y="360" key="SettingsEditor" timestamp="1614984538085">
-      <screen x="0" y="0" width="3440" height="1410" />
-    </state>
-    <state x="1347" y="360" key="SettingsEditor/0.0.3440.1410@0.0.3440.1410" timestamp="1614984538085" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial plugin" />
   </component>
 </project>
